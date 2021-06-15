@@ -1,4 +1,4 @@
-### Hello, I'm Emily Gann
+# Hello, I'm Emily Gann
 ## I'm a Full-Stack Developer and recent grad of Flatiron School.
 
 * :wrench: I am constantly tinkering with projects to include new features.

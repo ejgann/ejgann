@@ -4,7 +4,7 @@
 * :wrench: I am constantly tinkering with projects to include new features.
 * :apple: Ever the student, I am working on mastering JS React and Redux.
 * :checkered_flag: Goals: Learn more about data structures and algorithms!
-* I enjoy being outside :cactus: (trying to attain a "green thumb" status), playing with my dogs :dog2::dog2::dog2:, learning to play the guitar :guitar:, and taking on new technology challenges
+* I enjoy being outside :cactus: (trying to attain a "green thumb" status), playing with my dogs :dog2::dog2::dog2:, learning to play the guitar :guitar:, and taking on new technology challenges.
 
 <!--
 **ejgann/ejgann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
